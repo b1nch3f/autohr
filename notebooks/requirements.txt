@@ -1,0 +1,5 @@
+chromadb==0.4.17
+gpt4all==2.0.2
+jupyterlab==4.0.8
+langchain==0.0.335
+langchainhub==0.1.14
